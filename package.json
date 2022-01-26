@@ -1,0 +1,32 @@
+{
+  "name": "statesboro-walking-tour",
+  "version": "0.0.1",
+  "description": "Downtown Statesboro Historical and Architectural Walking Tour",
+  "productName": "Walk the Boro",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "Mary-Tyler-Moore",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "quasar": "^1.0.0",
+    "rematrix": "^0.4.1",
+    "vue-i18n": "^8.0.0",
+    "vue-material-design-icons": "^3.2.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-icon-genie": "^1.1.3"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
